@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react_ecomsite/static/css/main.764b5614.css",
-    "main.js": "/react_ecomsite/static/js/main.2c23809b.js",
-    "static/js/787.b4fef3a4.chunk.js": "/react_ecomsite/static/js/787.b4fef3a4.chunk.js",
+    "main.css": "/react_ecomsite/static/css/main.9436b096.css",
+    "main.js": "/react_ecomsite/static/js/main.f73d530b.js",
+    "static/js/787.6274e564.chunk.js": "/react_ecomsite/static/js/787.6274e564.chunk.js",
     "static/media/pyke.mp4": "/react_ecomsite/static/media/pyke.1524ebfce2d72c019a80.mp4",
     "static/media/GTWalsheimPro-Light.ttf": "/react_ecomsite/static/media/GTWalsheimPro-Light.0a89fe38505661051946.ttf",
     "static/media/GTWalsheimPro-Bold.ttf": "/react_ecomsite/static/media/GTWalsheimPro-Bold.2dbf49e9fcb548837711.ttf",
@@ -54,12 +54,12 @@
     "static/media/right.svg": "/react_ecomsite/static/media/right.7b13c9ac5e7c53fc2f3af0ae9afcc4d1.svg",
     "static/media/down.svg": "/react_ecomsite/static/media/down.45a1a7112bf6255f362b38eaa86ac6de.svg",
     "static/media/left.svg": "/react_ecomsite/static/media/left.bc24e9e3061ccb03a6e13a55760da701.svg",
-    "main.764b5614.css.map": "/react_ecomsite/static/css/main.764b5614.css.map",
-    "main.2c23809b.js.map": "/react_ecomsite/static/js/main.2c23809b.js.map",
-    "787.b4fef3a4.chunk.js.map": "/react_ecomsite/static/js/787.b4fef3a4.chunk.js.map"
+    "main.9436b096.css.map": "/react_ecomsite/static/css/main.9436b096.css.map",
+    "main.f73d530b.js.map": "/react_ecomsite/static/js/main.f73d530b.js.map",
+    "787.6274e564.chunk.js.map": "/react_ecomsite/static/js/787.6274e564.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.764b5614.css",
-    "static/js/main.2c23809b.js"
+    "static/css/main.9436b096.css",
+    "static/js/main.f73d530b.js"
   ]
 }
